@@ -4,4 +4,3 @@
 
 Welcome! Do not adjust your internet. It is working fine.
 
-You are now entering... Vanity.
